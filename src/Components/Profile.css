@@ -1,0 +1,20 @@
+.profile {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1em;
+  text-align: center;
+}
+
+.profile button {
+  background-color: #ff5733;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.profile button:hover {
+  background-color: #e04b2a;
+}
